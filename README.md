@@ -6,7 +6,7 @@ I'm a sociologist and a computational social scientist. I use computational tool
 - 🎓 I am a doctoral candidate in sociology at CUNY - The Graduate Center.
 - 🎓 I'll be teaching Quantitative Research Methods at Hunter College in Spring 2021.
 - 🔭 I'm currently doing research and writing papers on applied Machine Learning in social sciences, and ethical considerations of Machine Learning systems in solving social problems. 
-- 🌱  I read a lot especially novels. If you have a recommendation, send it my way. 
+- 🌱  I read a lot of novels. If you have a recommendation, send it my way. 
 - 👯 I’m looking to collaborate on how to introduce sociological concepts in machine learning designs, and how sociological reflexivity helps ML engineers tackle biases, and fairness problems. 
 - 😅 Fun fact: I lived in Germany for two years after college, learned German. I love learning foreign languagea. My current target language is Hindi. 
 
