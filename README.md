@@ -8,7 +8,7 @@ I'm a sociologist and a computational social scientist. I use computational tool
 - 🔭 I'm currently doing research and writing papers on applied Machine Learning in social sciences, and ethical considerations of Machine Learning systems in solving social problems. 
 - 🌱  I read a lot especially novels. If you have a recommendation, send it my way. 
 - 👯 I’m looking to collaborate on how to introduce sociological concepts in machine learning designs, and how sociological reflexivity helps ML engineers tackle biases, and fairness problems. 
-- 😅 Fun fact: I lived in Germany for two years after college, learned German deligently during the time. When I have free time, I prefer to learn a new real language. My current target language is Hindi. 
+- 😅 Fun fact: I lived in Germany for two years after college, learned German. I love learning foreign languagea. My current target language is Hindi. 
 
 
 The best way to reach me is through email. I'm open to collaborations, and idea exchanges. 
