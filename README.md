@@ -1,7 +1,5 @@
 ### Hi, I'm Nga 👋
 
-<!--
-**ngathan/ngathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a sociologist and a computational social scientist. I use computational tools to analyze social phenomena, and understand social problems. I write about AI ethics and Sociology at [Sociology and AI](https://montrealethics.ai/the-sociology-of-ai-ethics-column-introduction/). 
 
