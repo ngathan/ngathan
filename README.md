@@ -10,4 +10,5 @@ I'm a sociologist and a computational social scientist. I use computational tool
 - 👯 I’m looking to collaborate on how to introduce sociological concepts in machine learning designs, and how sociological reflexivity helps ML engineers tackle biases, and fairness problems. 
 - 😅 Fun fact: I lived in Germany for two years after college, learned German deligently during the time. When I have free time, I prefer to learn a new real language. My current target language is Hindi. 
 
-- The best way to reach me is through email. I'm open to collaborations, and idea exchanges. 
+
+The best way to reach me is through email. I'm open to collaborations, and idea exchanges. 
