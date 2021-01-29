@@ -13,4 +13,4 @@ I'm a sociologist and a computational social scientist. I use computational tool
 
 The best way to reach me is through email. I'm open to collaborations, and idea exchanges. 
 
-![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=jermolene"  style="width:300px; height:20px;"></iframe>
