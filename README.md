@@ -13,4 +13,4 @@ I'm a sociologist and a computational social scientist. I use computational tool
 
 The best way to reach me is through email. I'm open to collaborations, and idea exchanges. 
 
-![Visitor Count](https://profile-counter.glitch.me/{@NgaThanNYC}/count.svg)
+![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
