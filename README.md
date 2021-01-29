@@ -13,4 +13,5 @@ I'm a sociologist and a computational social scientist. I use computational tool
 
 The best way to reach me is through email. I'm open to collaborations, and idea exchanges. 
 
+{% twitter_follow_button %}
 <a href="https://twitter.com/ngathanNYC?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ngathanNYC</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
