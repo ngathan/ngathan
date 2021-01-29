@@ -3,7 +3,7 @@
 
 I'm a sociologist and a computational social scientist. I use computational tools to analyze and understand social problems. I write about AI ethics and Sociology at [Montreal AI Ethics Institute](https://montrealethics.ai/the-sociology-of-ai-ethics-column-introduction/). 
 
-- 🎓 I am a doctoral candidate in sociology at CUNY - The Graduate Center.
+- 🎓 I am a doctoral candidate in sociology at [CUNY - The Graduate Center](http://gc.cuny.edu/).
 - 🎓 I'll be teaching Quantitative Research Methods at Hunter College in Spring 2021.
 - 🔭 I'm currently doing research that applies Machine Learning in social sciences, and I write about ethical considerations of Machine Learning systems in solving social problems. 
 - 🌱  I read a lot of novels.
