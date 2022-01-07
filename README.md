@@ -7,7 +7,7 @@ I'm a sociologist and a computational social scientist. I use computational tool
 - 🎓 I'll be teaching Introduction to Statistics (Graduate Level Course) at [Hunter College](https://hunter.cuny.edu/) in Fall 2021. Students will be using [Data Camp](http://datacamp.com/) to gain data science skills. 
 - 🔭 I'm currently doing research that applies Machine Learning in social sciences, and I write about ethical considerations of Machine Learning systems in solving social problems. 
 - :books: I read a lot of novels. My favs lately are [Pachinko](https://www.minjinlee.com/book/pachinko/), and [Everything Here Is Beautiful](https://www.penguinrandomhouse.com/books/548173/everything-here-is-beautiful-by-mira-t-lee/). 
-- 👯 I’m looking to collaborate on how to use sociology to tackle bias, and fairness problems in ML.  
+- 👯 I’m looking to collaborate on how to use data science for good, and how to use sociology to tackle bias, and fairness problems in ML.  
 - 😅 Fun fact: I speak four languages and love learning new ones. My current target language is Hindi. 
 
 
