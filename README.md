@@ -1,7 +1,7 @@
 ### Hi, I'm Nga 👋
 
 
-I'm a sociologist and a computational social scientist. I use computational tools to analyze and understand social problems. I write about AI ethics and Sociology at [Montreal AI Ethics Institute](https://montrealethics.ai/the-sociology-of-ai-ethics-column-introduction/). 
+I'm a data scientist and computational social scientist. I use computational tools to analyze and understand social problems. I write about AI ethics and Sociology at [Montreal AI Ethics Institute](https://montrealethics.ai/the-sociology-of-ai-ethics-column-introduction/). 
 
 - 🎓 I am a doctoral candidate in sociology at [CUNY - The Graduate Center](http://gc.cuny.edu/).
 - 🎓 I'll be teaching Introduction to Statistics (Graduate Level Course) at [Hunter College](https://hunter.cuny.edu/) in Fall 2021. Students will be using [Data Camp](http://datacamp.com/) to gain data science skills. 
