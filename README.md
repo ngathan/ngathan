@@ -9,4 +9,4 @@ I'm a data scientist and AI researcher. I build LLM applications for enterprise 
 - 👯 I’m looking to collaborate on how create better GenAI applications at enterprise level, and how to scale such solutions.  
 - 😅 Fun fact: I speak four languages and love learning new ones. My current target language is Hindi. 
 
-The best way to reach me is through [email](nthan@gradcenter.cuny.edu). I'm open to collaborations, and idea exchanges. 
+The best way to reach me is through [email](mailto:nthan@gradcenter.cuny.edu). I'm open to collaborations, and idea exchanges. 
