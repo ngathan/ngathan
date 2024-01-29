@@ -3,14 +3,10 @@
 
 I'm a data scientist and AI researcher. I build LLM applications for enterprise use, and conduct research that utilizes LLMs to examine social questions. I write about GenAI applications at [Generative AI at Work](https://genaiatwork.substack.com/). 
 
-- 🎓 I am a doctoral candidate in sociology at [CUNY - The Graduate Center](http://gc.cuny.edu/).
-- 🎓 I'll be teaching Introduction to Statistics (Graduate Level Course) at [Hunter College](https://hunter.cuny.edu/) in Fall 2021. Students will be using [Data Camp](http://datacamp.com/) to gain data science skills. 
+- 🎓 I received a PhD from [CUNY - The Graduate Center](http://gc.cuny.edu/).
 - 🔭 I'm currently doing research that applies Machine Learning in social sciences, and I write about ethical considerations of Machine Learning systems in solving social problems. 
-- :books: I read a lot of novels. My favs lately are [Pachinko](https://www.minjinlee.com/book/pachinko/), and [Everything Here Is Beautiful](https://www.penguinrandomhouse.com/books/548173/everything-here-is-beautiful-by-mira-t-lee/). 
-- 👯 I’m looking to collaborate on how to use data science for good, and how to use sociology to tackle bias, and fairness problems in ML.  
+- :books: I read a lot of novels. My favs lately are [Tomorrow, and Tomorrow and Tomorrow](https://gabriellezevin.com/tomorrowx3/), and [Pachinko](https://www.minjinlee.com/book/pachinko/)
+- 👯 I’m looking to collaborate on how create better GenAI applications at enterprise level, and how to scale such solutions.  
 - 😅 Fun fact: I speak four languages and love learning new ones. My current target language is Hindi. 
 
-
-The best way to reach me is through email. I'm open to collaborations, and idea exchanges. 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/NgaThanNYC?label=Follow&style=social)](https://twitter.com/NgaThanNYC)
+The best way to reach me is through [email](nthan@gradcenter.cuny.edu). I'm open to collaborations, and idea exchanges. 
